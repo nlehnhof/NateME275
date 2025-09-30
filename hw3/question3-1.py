@@ -27,3 +27,10 @@ print(sol.converged)
 # beta(rad) =  0.7894140910022259
 # beta(deg) =  45.23009570258384
 # True
+
+# def f(beta):
+#     return np.arctan(
+#         2 * (M**2 * np.sin(beta)**2 -1) / (M**2 * (1.4 + np.cos(2 * beta)) + 2 * np.tan(beta))
+#     )
+
+# print(np.rad2deg(f(0.7894140910022259)))
