@@ -37,8 +37,8 @@ print("Root = ", root)
 print("Converged = ", converged)
 print("Iterations = ", iter)
 
-# error = 100 * ((root - 1.9433558226260175) / 1.9433558226260175)
-# print("Relative Error: ", error)
+error = 100 * ((root - 1.9433558226260175) / 1.9433558226260175)
+print("Relative Error: ", error)
 
 # number = 1 * 2 **3 + 1 * 2 **2 + 1 * 2 **1 + 0 * 2**0 + 1 * 2**-1 + 1 * 2**-2
 # print(number)
