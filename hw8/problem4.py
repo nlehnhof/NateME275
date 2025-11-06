@@ -25,5 +25,4 @@ In quality control, the key goal is to never ship a defective product.
 If the test occasionally rejects good bottles (false fails), it’s inefficient but safe — those bottles can be re-inspected or recycled.
 What would be dangerous is passing flawed bottles, but since 
 𝑃(no flaw ∣ pass) is extremely high, the test almost never lets a bad one through.
-
 """
