@@ -1,0 +1,67 @@
+\documentclass[conf]{new-aiaa} % Use [journal] for AIAA journal style
+
+\input{preamble} % your preamble.tex file with packages
+
+\begin{document}
+\sloppy % helps reduce overfull hboxes
+
+\title{The Effects of Sleep on Student Performance}
+\author{Nathan R. Lehnhof\footnote{Mechanical Engineering}}
+\affil{BYU Provo, UT}
+\date{\today}
+\maketitle
+
+% ======================================================
+\begin{abstract}
+Sleep is one of the pillars of a healthy life and plays a direct role in mood, cognitive performance, and energy levels. 
+While we sleep, the brain works to repair the stresses and demands accumulated during waking hours. 
+In academic settings, students often refer to the trade-off between sleep, studying, and social life as the “Student’s Triangle,” suggesting that one of these areas must be sacrificed. 
+A common belief is that students who get more sleep perform better academically.
+
+This report investigates whether the data support this belief and quantifies the relationship between sleep duration and student performance. 
+Using Kaggle’s Students Performance Dataset, we compare academic scores between students who sleep fewer than seven hours and those who sleep seven or more hours per night. 
+A two-sample t-test is conducted to assess whether the difference in mean performance is statistically significant, followed by the construction of a confidence interval for the mean difference.
+
+The results allow us to evaluate the conventional wisdom regarding sleep and academic achievement and provide a data-driven estimate of the strength of this relationship.
+\end{abstract}
+
+% ======================================================
+\section{Introduction}
+Sleep has long been recognized as essential for supporting the brain's ability to learn, focus, and retain information.
+Decades of research in neuroscience show that memory consolidation and emotional regulation all depend heavily on adequate sleep \cite{Wolfson2003}.
+Yet among students, sleep is often the first thing sacrificed in response to academic pressure.
+Many believe that staying up late to study and complete assignments will improve performance, even though fatigue can impair attnetion and retention.
+
+Whether this belief is accurate is not always clear to the students themselves.
+While past studies strongly suggest that sleep improves cognitive outcomes, the relationship between sleep habits and academic performance varies across individuals and can be influenced by many factors.
+
+This project investigates this question using an openly available dataset of student test scores.
+Rather than focusing on laboratory studies or controlled experiments, we use Kaggle's Student Performance Database to explore whether students who sleep more perform better academically.
+By statistically comparing performance between students who sleep fewer than seven hours per night and those who sleep seven or more, we aim to determine whether this widely held belief that more sleep leads to better performance is supported by evidence in a real-world sample.
+
+The goal of this study is not only to evaluate a common assumption but also to quantify the academic difference assosciated with sleep habits.
+This analysis allows us to assess whether additional seep corresponds to meaningful differences in academic performance, and whether the relationship is statistically significant when examined through formal hypothesis testing.
+% ======================================================
+\section{Methods}
+
+% ======================================================
+\section{Results}
+
+\FloatBarrier
+
+% ======================================================
+\section{Conclusion}
+
+\section{References and Resources}
+\bibliography{references}
+
+% \begin{thebibliography}{1}
+
+% \bibitem[Wolfson and Carskadon(2003)]{Wolfson2003}
+% A.~R. Wolfson and M.~A. Carskadon, ``Understanding adolescent sleep patterns and
+%   their impact on daytime functioning,'' Journal of Pediatric Psychology,
+%   vol.~28, no.~8, pp. 1--12, 2003.
+
+% \end{thebibliography}
+
+\end{document}
