@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  19 NOV 2025 16:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  20 NOV 2025 13:45
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
-**c:/Users/nlehn/NateME275/project/nlehnhof_sleep.tex
-(c:/Users/nlehn/NateME275/project/nlehnhof_sleep.tex
+**c:/Users/nlehn/NateME275/project/nlehnhof_attendance.tex
+(c:/Users/nlehn/NateME275/project/nlehnhof_attendance.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (new-aiaa.cls
@@ -941,8 +941,8 @@ File: t1ntxtlf.fd 2021/05/24 v1.1 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.0pt on input line 5.
- (nlehnhof_sleep.aux)
-\openout1 = `nlehnhof_sleep.aux'.
+ (nlehnhof_attendance.aux)
+\openout1 = `nlehnhof_attendance.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 5.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 5.
@@ -1065,9 +1065,9 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 5.
-(nlehnhof_sleep.out) (nlehnhof_sleep.out)
+(nlehnhof_attendance.out) (nlehnhof_attendance.out)
 \@outlinefile=\write4
-\openout4 = `nlehnhof_sleep.out'.
+\openout4 = `nlehnhof_attendance.out'.
 
 
 Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
@@ -1235,88 +1235,35 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 10.0pt on input line 15.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 29.
+(Font)              scaled to size 12.0pt on input line 27.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 29.
- (nlehnhof_sleep.bbl
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 9.0pt on input line 1.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 9.0pt on input line 13.
-LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 9.0pt on input line 14.
-LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 6.6pt on input line 14.
-LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 9.0pt on input line 14.
-LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 6.6pt on input line 14.
-LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 9.0pt on input line 14.
-LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 6.6pt on input line 14.
-LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 9.0pt on input line 14.
-LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 6.6pt on input line 14.
-LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 9.0pt on input line 14.
-LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 6.6pt on input line 14.
-LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 9.0pt on input line 14.
-LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 6.6pt on input line 14.
-LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 9.0pt on input line 14.
-LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 6.6pt on input line 14.
-LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 9.0pt on input line 14.
-LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 6.6pt on input line 14.
-LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
-(Font)              scaled to size 9.0pt on input line 14.
-LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
-(Font)              scaled to size 6.6pt on input line 14.
-LaTeX Font Info:    Font shape `OML/ntxmi/b/it' will be
-(Font)              scaled to size 9.0pt on input line 14.
-LaTeX Font Info:    Font shape `OML/ntxmi/b/it' will be
-(Font)              scaled to size 6.6pt on input line 14.
-LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
-(Font)              scaled to size 9.0pt on input line 14.
-LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
-(Font)              scaled to size 6.6pt on input line 14.
-LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
-(Font)              scaled to size 9.0pt on input line 14.
-LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
-(Font)              scaled to size 6.6pt on input line 14.
+(Font)              scaled to size 12.0pt on input line 27.
+
+No file nlehnhof_attendance.bbl.
 
 
 [1
 
-{C:/Users/nlehn/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}])
-
-[2] (nlehnhof_sleep.aux)
+{C:/Users/nlehn/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}] (nlehnhof_attendance.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
  ***********
-Package rerunfilecheck Info: File `nlehnhof_sleep.out' has not changed.
+Package rerunfilecheck Info: File `nlehnhof_attendance.out' has not changed.
 (rerunfilecheck)             Checksum: DE2F3A3DD6E41610A24C52C5BCC78F3F;521.
  ) 
 Here is how much of TeX's memory you used:
- 45414 strings out of 473523
- 1037642 string characters out of 5714630
- 1561897 words of memory out of 5000000
- 67783 multiletter control sequences out of 15000+600000
- 643169 words of font info for 174 fonts, out of 8000000 for 9000
+ 45336 strings out of 473523
+ 1036160 string characters out of 5714630
+ 1559912 words of memory out of 5000000
+ 67720 multiletter control sequences out of 15000+600000
+ 623936 words of font info for 143 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 95i,8n,131p,1044b,628s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 95i,8n,131p,1049b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on nlehnhof_sleep.pdf (2 pages, 128528 bytes).
+Output written on nlehnhof_attendance.pdf (1 page, 120841 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
- 35989 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 83 PDF objects out of 1000 (max. 8388607)
+ 7 named destinations out of 1000 (max. 500000)
+ 29845 words of extra memory for PDF output out of 29859 (max. 10000000)
 
