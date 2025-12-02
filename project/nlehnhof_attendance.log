@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  2 DEC 2025 13:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  2 DEC 2025 16:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1647,38 +1647,17 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 12.0pt on input line 27.
 LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 
-51.
+49.
 
 (C:\Users\nlehn\AppData\Local\Programs\MiKTeX\tex/latex/newtx\t1ntxtt.fd
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 10.0pt on input line 51.
+(Font)              scaled to size 10.0pt on input line 49.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `ntxtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-! Missing { inserted.
-<to be read again> 
-                   _
-l.60 Let $\bar{x}__
-                   1$ and $\bar{x}_2$ denote the sample means of the low-abs...
-
-? yes
-Type <return> to proceed, S to scroll future error messages,
-R to run without stopping, Q to run quietly,
-I to insert something, E to edit your file,
-1 or ... or 9 to ignore the next 1 to 9 tokens of input,
-H for help, X to quit.
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.60 Let $\bar{x}__1$
-                      and $\bar{x}_2$ denote the sample means of the low-abs...
-
-? 
 
 
 [1
@@ -1687,25 +1666,97 @@ l.60 Let $\bar{x}__1$
 n/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{C:/Users/
 nlehn/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}{C:/User
 s/nlehn/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}]
-No file nlehnhof_attendance.bbl.
+<figures/cdf.png, id=78, 578.16pt x 361.35pt>
+File: figures/cdf.png Graphic file (type png)
+<use figures/cdf.png>
+Package pdftex.def Info: figures/cdf.png  used on input line 107.
+(pdftex.def)             Requested size: 352.31625pt x 220.19711pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/joint_graph.png, id=81, 578.16pt x 361.35pt>
+File: figures/joint_graph.png Graphic file (type png)
+<use figures/joint_graph.png>
+Package pdftex.def Info: figures/joint_graph.png  used on input line 118.
+(pdftex.def)             Requested size: 352.31625pt x 220.19711pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-[2] (nlehnhof_attendance.aux)
+
+[2]
+
+[3 <./figures/cdf.png> <./figures/joint_graph.png>] (nlehnhof_attendance.bbl
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 9.0pt on input line 1.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 9.0pt on input line 13.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 9.0pt on input line 14.
+LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
+(Font)              scaled to size 6.6pt on input line 14.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 9.0pt on input line 14.
+LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
+(Font)              scaled to size 6.6pt on input line 14.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 9.0pt on input line 14.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 6.6pt on input line 14.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 9.0pt on input line 14.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 6.6pt on input line 14.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 9.0pt on input line 14.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 6.6pt on input line 14.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 9.0pt on input line 14.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 6.6pt on input line 14.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 9.0pt on input line 14.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.6pt on input line 14.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 9.0pt on input line 14.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.6pt on input line 14.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 9.0pt on input line 14.
+LaTeX Font Info:    Font shape `OT1/minntx/b/n' will be
+(Font)              scaled to size 6.6pt on input line 14.
+LaTeX Font Info:    Font shape `OML/ntxmi/b/it' will be
+(Font)              scaled to size 9.0pt on input line 14.
+LaTeX Font Info:    Font shape `OML/ntxmi/b/it' will be
+(Font)              scaled to size 6.6pt on input line 14.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 9.0pt on input line 14.
+LaTeX Font Info:    Font shape `LMS/ntxsy/b/n' will be
+(Font)              scaled to size 6.6pt on input line 14.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 9.0pt on input line 14.
+LaTeX Font Info:    Font shape `LMX/ntxexx/b/n' will be
+(Font)              scaled to size 6.6pt on input line 14.
+)
+
+[4] (nlehnhof_attendance.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `nlehnhof_attendance.out' has not changed.
-(rerunfilecheck)             Checksum: DE2F3A3DD6E41610A24C52C5BCC78F3F;521.
+(rerunfilecheck)             Checksum: 5D51705F6385077DB5BB3212E4469B93;1016.
  ) 
 Here is how much of TeX's memory you used:
- 45409 strings out of 473523
- 1037339 string characters out of 5714630
+ 45550 strings out of 473523
+ 1040254 string characters out of 5714630
  1565912 words of memory out of 5000000
- 67758 multiletter control sequences out of 15000+600000
- 630895 words of font info for 166 fonts, out of 8000000 for 9000
+ 67861 multiletter control sequences out of 15000+600000
+ 649811 words of font info for 204 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 95i,8n,131p,1018b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 95i,9n,131p,1018b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXM
 I.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/Ne
 wTXMI7.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex
@@ -1716,9 +1767,9 @@ blic/newtx/txmiaX.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/type1
 e1/public/newtx/ztmb.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/newtx/ztmr.pfb><C:/Users/nlehn/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/newtx/ztmri.pfb>
-Output written on nlehnhof_attendance.pdf (2 pages, 165040 bytes).
+Output written on nlehnhof_attendance.pdf (4 pages, 229780 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
- 8 named destinations out of 1000 (max. 500000)
- 30357 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 153 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 36535 words of extra memory for PDF output out of 42996 (max. 10000000)
 
